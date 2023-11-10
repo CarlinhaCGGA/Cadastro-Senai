@@ -1,0 +1,15 @@
+C:\Users\Micro\Desktop\Cadastro\obj\Debug\net6.0\Cadastro.csproj.AssemblyReference.cache
+C:\Users\Micro\Desktop\Cadastro\obj\Debug\net6.0\Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Desktop\Cadastro\obj\Debug\net6.0\Cadastro.AssemblyInfoInputs.cache
+C:\Users\Micro\Desktop\Cadastro\obj\Debug\net6.0\Cadastro.AssemblyInfo.cs
+C:\Users\Micro\Desktop\Cadastro\obj\Debug\net6.0\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\Cadastro\bin\Debug\net6.0\Cadastro.exe
+C:\Users\Micro\Desktop\Cadastro\bin\Debug\net6.0\Cadastro.deps.json
+C:\Users\Micro\Desktop\Cadastro\bin\Debug\net6.0\Cadastro.runtimeconfig.json
+C:\Users\Micro\Desktop\Cadastro\bin\Debug\net6.0\Cadastro.dll
+C:\Users\Micro\Desktop\Cadastro\bin\Debug\net6.0\Cadastro.pdb
+C:\Users\Micro\Desktop\Cadastro\obj\Debug\net6.0\Cadastro.dll
+C:\Users\Micro\Desktop\Cadastro\obj\Debug\net6.0\refint\Cadastro.dll
+C:\Users\Micro\Desktop\Cadastro\obj\Debug\net6.0\Cadastro.pdb
+C:\Users\Micro\Desktop\Cadastro\obj\Debug\net6.0\Cadastro.genruntimeconfig.cache
+C:\Users\Micro\Desktop\Cadastro\obj\Debug\net6.0\ref\Cadastro.dll
